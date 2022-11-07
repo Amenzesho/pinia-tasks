@@ -1,0 +1,24 @@
+{
+  "tasks": [
+    {
+      "id": 2,
+      "title": "mow the lawn",
+      "isFav": false
+    },
+    {
+      "title": "run a half marathon",
+      "isFav": true,
+      "id": 6372
+    },
+    {
+      "title": "get some groceries",
+      "isFav": false,
+      "id": 543
+    },
+    {
+      "title": "volunteer with a charity",
+      "isFav": false,
+      "id": 926
+    }
+  ]
+}
